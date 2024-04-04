@@ -2,6 +2,8 @@
 
 This repository provides template repositories to help you create extensions for PostgreSQL. These templates are designed to help you quickly develop an extension by providing basic examples of extensions that can be easily adapted into your own extension.
 
+Pull Requests and additional templates are welcome!
+
 ## Current Templates
 
 ### [Function](https://github.com/pgextensions/function-template)
