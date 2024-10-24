@@ -14,6 +14,6 @@ An example of a function using the [Soundex](https://en.wikipedia.org/wiki/Sound
 
 An example of an operator using the [Soundex](https://en.wikipedia.org/wiki/Soundex) algorithm. This is an extension written in `C`, providing two operators, `>@@<` which provides word similarity, and `<@@>` which provides word dissimilarity.
 
-### [Type](https://github.com/pgextensions/function-type)
+### [Type](https://github.com/pgextensions/type-template)
 
 An example of a type using the [Soundex](https://en.wikipedia.org/wiki/Soundex) algorithm. This is an extension written in `C`, providing a type that stores the computed `Soundex` value upon insert, and returns that computed value on read.
